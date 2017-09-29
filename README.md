@@ -1,3 +1,3 @@
 # CommentBox
 
-![alt tag](https://olgafedorenko.github.io/CommentBox-with-React.js/Comments.html)
+![alt tag](https://github.com/olgafedorenko/CommentBox-with-React.js/blob/master/Comment%20Box.png)
